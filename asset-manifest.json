@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-counter.git/static/css/main.6bfafffb.css",
-    "main.js": "/react-counter.git/static/js/main.e7677330.js",
-    "static/js/787.e458d2a5.chunk.js": "/react-counter.git/static/js/787.e458d2a5.chunk.js",
-    "index.html": "/react-counter.git/index.html",
-    "main.6bfafffb.css.map": "/react-counter.git/static/css/main.6bfafffb.css.map",
-    "main.e7677330.js.map": "/react-counter.git/static/js/main.e7677330.js.map",
-    "787.e458d2a5.chunk.js.map": "/react-counter.git/static/js/787.e458d2a5.chunk.js.map"
+    "main.css": "/react-counter/static/css/main.6bfafffb.css",
+    "main.js": "/react-counter/static/js/main.6a9b152c.js",
+    "static/js/787.e458d2a5.chunk.js": "/react-counter/static/js/787.e458d2a5.chunk.js",
+    "index.html": "/react-counter/index.html",
+    "main.6bfafffb.css.map": "/react-counter/static/css/main.6bfafffb.css.map",
+    "main.6a9b152c.js.map": "/react-counter/static/js/main.6a9b152c.js.map",
+    "787.e458d2a5.chunk.js.map": "/react-counter/static/js/787.e458d2a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bfafffb.css",
-    "static/js/main.e7677330.js"
+    "static/js/main.6a9b152c.js"
   ]
 }
