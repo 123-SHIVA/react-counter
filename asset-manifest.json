@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/123-SHIVA/react-counter.git/static/css/main.6bfafffb.css",
+    "main.js": "/123-SHIVA/react-counter.git/static/js/main.d2b34b87.js",
+    "static/js/787.e458d2a5.chunk.js": "/123-SHIVA/react-counter.git/static/js/787.e458d2a5.chunk.js",
+    "index.html": "/123-SHIVA/react-counter.git/index.html",
+    "main.6bfafffb.css.map": "/123-SHIVA/react-counter.git/static/css/main.6bfafffb.css.map",
+    "main.d2b34b87.js.map": "/123-SHIVA/react-counter.git/static/js/main.d2b34b87.js.map",
+    "787.e458d2a5.chunk.js.map": "/123-SHIVA/react-counter.git/static/js/787.e458d2a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bfafffb.css",
+    "static/js/main.d2b34b87.js"
+  ]
+}
